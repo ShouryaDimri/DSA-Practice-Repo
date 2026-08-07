@@ -11,6 +11,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0035-search-insert-position](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0704-binary-search](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 
@@ -21,5 +22,6 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0035-search-insert-position](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0704-binary-search](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |<!---LeetCode Topics End-->
