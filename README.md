@@ -34,6 +34,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |
 
 ## Stack
 | Problem Name | Difficulty |
@@ -48,4 +49,14 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0014-longest-common-prefix](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |<!---LeetCode Topics End-->
+| [0014-longest-common-prefix](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |
+
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |<!---LeetCode Topics End-->
