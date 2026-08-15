@@ -64,4 +64,10 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0237-delete-node-in-a-linked-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0237-delete-node-in-a-linked-list/) | Medium |<!---LeetCode Topics End-->
+| [0237-delete-node-in-a-linked-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
+
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |<!---LeetCode Topics End-->
