@@ -33,6 +33,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [0205-isomorphic-strings](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |
 
@@ -81,6 +82,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
+| [0205-isomorphic-strings](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
