@@ -17,6 +17,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0162-find-peak-element](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 
 ## Binary Search
 | Problem Name | Difficulty |
@@ -104,4 +105,9 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0242-valid-anagram](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |<!---LeetCode Topics End-->
+| [0242-valid-anagram](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |<!---LeetCode Topics End-->
