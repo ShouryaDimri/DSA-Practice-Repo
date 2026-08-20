@@ -12,6 +12,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0033-search-in-rotated-sorted-array](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
@@ -110,4 +111,9 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [3069-distribute-elements-into-two-arrays-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |<!---LeetCode Topics End-->
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
+
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |<!---LeetCode Topics End-->
