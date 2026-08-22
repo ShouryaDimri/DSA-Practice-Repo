@@ -19,6 +19,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0217-contains-duplicate](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 
 ## Binary Search
@@ -84,6 +85,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0141-linked-list-cycle](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 
 ## Hash Table
 | Problem Name | Difficulty |
@@ -114,6 +116,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 
 ## Dynamic Programming
