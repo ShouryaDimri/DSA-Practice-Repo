@@ -14,6 +14,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0035-search-insert-position](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -86,6 +87,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
@@ -114,6 +116,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 
