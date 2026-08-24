@@ -42,6 +42,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0205-isomorphic-strings](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
@@ -51,11 +52,13 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 
 ## Trie
