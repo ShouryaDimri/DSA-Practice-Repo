@@ -47,6 +47,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0020-valid-parentheses](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0205-isomorphic-strings](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0796-rotate-string](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |
@@ -98,6 +99,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0088-merge-sorted-array](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
+| [0344-reverse-string](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 
