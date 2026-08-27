@@ -23,6 +23,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0540-single-element-in-a-sorted-array](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1539-kth-missing-positive-number/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 
@@ -39,6 +40,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0540-single-element-in-a-sorted-array](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1539-kth-missing-positive-number/) | Easy |
 
 ## String
 | Problem Name | Difficulty |
