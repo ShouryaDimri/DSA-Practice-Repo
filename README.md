@@ -78,6 +78,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |
@@ -156,4 +157,5 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0021-merge-two-sorted-lists](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |<!---LeetCode Topics End-->
+| [0021-merge-two-sorted-lists](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |<!---LeetCode Topics End-->
