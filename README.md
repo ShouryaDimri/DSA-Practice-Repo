@@ -25,6 +25,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0875-koko-eating-bananas](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1539-kth-missing-positive-number/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 
@@ -88,6 +89,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 
 ## Linked List
 | Problem Name | Difficulty |
