@@ -84,6 +84,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0050-powx-n](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
+| [0231-power-of-two](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 
@@ -166,10 +167,12 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 
 ## Breadth-First Search
