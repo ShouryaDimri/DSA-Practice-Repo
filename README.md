@@ -172,6 +172,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 
@@ -183,4 +184,9 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |<!---LeetCode Topics End-->
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |<!---LeetCode Topics End-->
