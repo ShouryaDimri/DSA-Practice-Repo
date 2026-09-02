@@ -29,6 +29,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 
 ## Binary Search
 | Problem Name | Difficulty |
@@ -84,6 +85,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0066-plus-one](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 
 ## Greedy
 | Problem Name | Difficulty |
