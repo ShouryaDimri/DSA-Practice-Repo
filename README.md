@@ -31,6 +31,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 
 ## Binary Search
 | Problem Name | Difficulty |
@@ -191,4 +192,9 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0191-number-of-1-bits](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |<!---LeetCode Topics End-->
+| [0191-number-of-1-bits](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
+
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |<!---LeetCode Topics End-->
