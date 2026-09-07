@@ -62,6 +62,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0242-valid-anagram](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0796-rotate-string](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |
 
@@ -164,6 +165,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
 
 ## Newton's Method
 | Problem Name | Difficulty |
