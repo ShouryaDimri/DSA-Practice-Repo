@@ -93,6 +93,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0231-power-of-two](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [3870-count-commas-in-range](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 
