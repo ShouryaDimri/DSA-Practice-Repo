@@ -28,6 +28,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
@@ -136,6 +137,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0205-isomorphic-strings](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 
@@ -181,6 +183,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0021-merge-two-sorted-lists](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -208,4 +211,9 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
-| [3904-smallest-stable-index-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |<!---LeetCode Topics End-->
+| [3904-smallest-stable-index-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/3904-smallest-stable-index-ii/) | Medium |
+
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |<!---LeetCode Topics End-->
