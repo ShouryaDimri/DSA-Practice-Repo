@@ -88,6 +88,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
@@ -188,6 +189,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0029-divide-two-integers/) | Medium |
 | [0191-number-of-1-bits](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
