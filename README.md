@@ -72,6 +72,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 
 ## Bracket Sequences
@@ -220,4 +221,9 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [3483-unique-3-digit-even-numbers](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |<!---LeetCode Topics End-->
+| [3483-unique-3-digit-even-numbers](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
+
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |<!---LeetCode Topics End-->
