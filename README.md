@@ -116,6 +116,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0141-linked-list-cycle](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0237-delete-node-in-a-linked-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 
