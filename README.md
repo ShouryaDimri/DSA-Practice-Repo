@@ -119,6 +119,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0021-merge-two-sorted-lists](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
@@ -133,6 +134,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | [0088-merge-sorted-array](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0344-reverse-string](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -167,6 +169,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | ------- | ------- |
 | [0015-3sum](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 
@@ -217,6 +220,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
 | [0191-number-of-1-bits](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 
 ## Prefix Sum
@@ -239,4 +243,9 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0225-implement-stack-using-queues](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |<!---LeetCode Topics End-->
+| [0225-implement-stack-using-queues](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
+
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |<!---LeetCode Topics End-->
