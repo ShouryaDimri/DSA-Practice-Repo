@@ -59,6 +59,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
@@ -145,6 +146,7 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
@@ -250,4 +252,9 @@ Collection of DSA questions to ace the coding interview! - Created using [LeetHu
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0148-sort-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |<!---LeetCode Topics End-->
+| [0148-sort-list](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0148-sort-list/) | Medium |
+
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShouryaDimri/DSA-Practice-Repo/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |<!---LeetCode Topics End-->
